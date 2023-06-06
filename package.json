@@ -1,0 +1,27 @@
+{
+  "name": "simple-tube",
+  "version": "0.1.0",
+  "description": "",
+  "main": "./lib/index.js",
+  "scripts": {
+    "fmt": "prettier -w lib"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@distube/ytdl-core": "^4.11.10",
+    "simple-node-ffmpeg-api": "xcvpk/simple-node-ffmpeg-api",
+    "yt-search": "^2.10.4"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.8"
+  },
+  "prettier": {
+    "trailingComma": "none",
+    "tabWidth": 4,
+    "singleQuote": false,
+    "semi": true,
+    "printWidth": 120,
+    "bracketSpacing": true
+  }
+}
