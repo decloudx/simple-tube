@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "@distube/ytdl-core": "^4.11.10",
-    "simple-node-ffmpeg-api": "xcvpk/simple-node-ffmpeg-api",
+    "simple-node-ffmpeg-api": "li3n0ruAGpI/simple-node-ffmpeg-api",
     "yt-search": "^2.10.4"
   },
   "devDependencies": {
